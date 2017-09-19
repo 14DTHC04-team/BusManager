@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        Toast.makeText(this, "ngày 20/9", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "đã delete Toast", Toast.LENGTH_SHORT).show();
     }
 
     @Override

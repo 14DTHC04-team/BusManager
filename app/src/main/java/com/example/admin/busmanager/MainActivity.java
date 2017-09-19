@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Nguyen Lê Anh Khoa", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Thêm Toast", Toast.LENGTH_SHORT).show();
     }
 
     @Override

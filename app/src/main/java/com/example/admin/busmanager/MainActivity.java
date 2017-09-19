@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Nguyen Lê Anh Khoa", Toast.LENGTH_SHORT).show();
     }
 
     @Override
